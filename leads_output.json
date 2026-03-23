@@ -1,0 +1,47 @@
+[
+  {
+    "lead": {
+      "title": "Custom E-commerce Platform for Fashion Brand",
+      "description": "We run a mid-sized UK fashion label and need a fully custom e-commerce site replacing our aging Magento 1 install. Must support multi-currency, personalised recommendations, AR try-on, and seamless Shopify POS integration. Timeline is 4 months. We want a long-term agency partner.",
+      "budget": "$12,000 - $20,000",
+      "location": "London, UK"
+    },
+    "error": "<urlopen error _ssl.c:983: The handshake operation timed out>"
+  },
+  {
+    "lead": {
+      "title": "Logo design for my coffee shop",
+      "description": "Need a simple logo for a small local coffee shop. Nothing fancy.",
+      "budget": "$50 - $100",
+      "location": "Manchester, UK"
+    },
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "lead": {
+      "title": "SaaS Dashboard Web App - Property Management",
+      "description": "We're a PropTech startup building a cloud-based property-management platform. Need a React front-end with a Node/Express API, role-based auth, real-time notifications, and Stripe billing. Seed-funded, looking for a 6-month engagement.",
+      "budget": "$30,000+",
+      "location": "Austin, TX"
+    },
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "lead": {
+      "title": "WordPress blog setup",
+      "description": "I need someone to install WordPress and pick a theme for my personal blog.",
+      "budget": "$100 - $200",
+      "location": "Remote"
+    },
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "lead": {
+      "title": "Booking & Scheduling Platform for Wellness Studio",
+      "description": "Our yoga and wellness studio currently uses pen-and-paper booking. We want a bespoke online booking system with class scheduling, membership tiers, automated reminder emails/SMS, Zoom integration for virtual classes, and a branded mobile PWA. We have a serious budget and want this done right.",
+      "budget": "$5,000 - $8,000",
+      "location": "Toronto, Canada"
+    },
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  }
+]
